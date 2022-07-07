@@ -1,2 +1,3 @@
-# ProyectoFinalPOO
+# Proyecto de POO
+
 ...
